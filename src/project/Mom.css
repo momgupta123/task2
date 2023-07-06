@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(247, 60, 27);
+    justify-content: center; 
+}
+.head{
+    text-align: center;
+    justify-content: center;
+}
+.circl{
+    position: relative;
+       left: 33%;
+   border-radius: 39px;
+   box-shadow: 0 0 6px 8px rgb(51, 49, 49);
+
+   text-align: center;
+    width: 450px;
+    height: 500px;
+    background-color: aliceblue;
+    color: blue;
+}
+.circlemain{
+    position: relative;
+    top: 5%;
+    left: 25%;
+    text-align: center;
+    border-radius: 90px;
+height: 180px;
+width: 180px;
+color:white ;
+background-color: rgb(247, 60, 27);
+
+}
+.break{
+    text-align: center;
+    position: relative;
+    top: 9%;
+}
+.runningtime{
+    font-size: 49px;
+}
+.pause 
+{
+    background-color: wheat;
+   color: rgb(247, 60, 27) ;
+    height: 43px;
+    width: 43px;
+    border-radius: 28px;
+    border: none;
+    box-shadow: 0 4px 6px -2px rgba(238, 179, 179, 0.5);
+}
+.pause:hover{
+    transform: scale(0.9);
+}
+.text1{
+    position: relative;
+    top: 20%;
+}
+.time-buttons1{
+    text-align:left;
+    padding-left: 8px;
+    float: left;
+}
+.time-button2{
+    margin-left: 11px;
+    height: 45px;
+    width: 45px;
+    font-size: 23px;
+    font-weight: bold;
+    border-radius: 23px;
+    box-shadow: 0 4px 6px -2px rgba(228, 91, 91, 0.5);
+    border: none;
+}
+.time-button1{
+    margin-right: 11px;
+    height: 45px;
+    width: 45px;
+    font-size: 23px;
+    font-weight: bold;
+    border-radius: 23px;
+    box-shadow: 0 4px 6px -2px rgba(228, 91, 91, 0.5);
+    border: none;
+}
+.time-buttons2{
+    
+    text-align: right;
+    padding-right: 8px;
+    float: right;
+    
+}
+.inputcy{
+    width: 28px;
+    border: none;
+}
+.h4in{
+    margin-bottom: 2px;
+}
