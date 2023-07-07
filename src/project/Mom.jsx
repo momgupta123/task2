@@ -142,7 +142,7 @@ const PomodoroClock = () => {
                     </div>
                 </div>
             </div>
-            <p>Special thanks <h4> Sushil Athithiyaa</h4> <h3>Dev. by Raushan</h3></p>
+            <p>Special thanks <h4> Chaithanya Padi</h4> <h3>Dev. by Raushan</h3></p>
         </div>
     );
 };
